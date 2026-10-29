@@ -5,7 +5,7 @@
 
 ## ⬇️ Download MyPOS for Windows
 
-[![Download MyPOS for Windows 10 & 11](https://img.shields.io/badge/Download-For_Windows_10_%26_11-2563EB?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Rehankhanx/mypos-downloads/releases/latest)
+[![Download MyPOS for Windows 10 & 11](https://img.shields.io/badge/Download-For_Windows_10_%26_11-2563EB?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Rehankhanx/mypos/releases/latest)
 
 **Compatibility:** Windows 10 & Windows 11
 
