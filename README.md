@@ -2,9 +2,15 @@
 
 **Sell smarter. Manage stock. Track every rupee. Run your business with confidence.**
 
+
 ## ⬇️ Download MyPOS for Windows
 
-[![Download MyPOS](https://img.shields.io/badge/Download-MyPOS_for_Windows-2563EB?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Rehankhanx/mypos-downloads/releases/latest)
+[![Download MyPOS for Windows 10 & 11](https://img.shields.io/badge/Download-For_Windows_10_%26_11-2563EB?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Rehankhanx/mypos-downloads/releases/latest)
+
+**Compatibility:** Windows 10 & Windows 11
+
+Download the latest MyPOS installer from our official GitHub Releases page.
+
 
 Get the latest MyPOS installer from our official GitHub Releases page.
 
