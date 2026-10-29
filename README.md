@@ -2,6 +2,12 @@
 
 **Sell smarter. Manage stock. Track every rupee. Run your business with confidence.**
 
+## ⬇️ Download MyPOS for Windows
+
+[![Download MyPOS](https://img.shields.io/badge/Download-MyPOS_for_Windows-2563EB?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Rehankhanx/mypos-downloads/releases/latest)
+
+Get the latest MyPOS installer from our official GitHub Releases page.
+
 MyPOS is a feature-rich Windows desktop application designed to manage everyday shop operations from one place. From sales and inventory to customer ledgers, supplier payments, financial reports, and multi-PC connectivity, MyPOS brings essential business tools together in one system.
 
 With offline-first operation, local data storage, flexible receipt printing, and an integrated shop assistant, MyPOS helps businesses stay organized and in control.
